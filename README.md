@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="190" src="https://s3.ezgif.com/tmp/ezgif-382d444dfcb19.gif"  />
-</div>
 
 ###
 
